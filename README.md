@@ -1,5 +1,6 @@
 # pwnage24mtk
 Cert exploit for MTK devices.There is a logic flaw in MTK cert verification process.Similar to CVE-2023-20696.
+May be patched at June 
 
 For mtk devices,preloader verifies bl2_ext/lk/atf and then jumps to it.
 
