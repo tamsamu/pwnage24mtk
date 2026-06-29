@@ -7,6 +7,7 @@ Littlenine, MlgmXyysd, and Sherrin are not only rumor mongers but also opportuni
 When our recent GBL vulnerability overlapped with theirs, I reached out in good faith to discuss it, hoping to clarify the situation. Instead of a constructive conversation, I was met with baseless accusations and outright slander.
 
 We do have other vulnerability research in the pipeline, but given this entire experience, we’re seriously reconsidering whether to continue publishing them at all.
+<img width="841" height="294" alt="da7ff769c085f94c15a499f6892005d5" src="https://github.com/user-attachments/assets/728563fb-3e94-406b-a37e-a4b827dd282c" />
 
 <img width="872" height="1920" alt="64a10fe17f15045f8ff9b3acb5371c49_720" src="https://github.com/user-attachments/assets/a999e602-f59a-4e8f-8dc5-4de172e259d7" />
 <img width="872" height="1920" alt="9685bb71a65b19c68a3888e042252692_720" src="https://github.com/user-attachments/assets/fad8b0c7-1642-4b4d-b7f5-d232bd30e375" />
