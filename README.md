@@ -42,7 +42,7 @@ Then we can modify the image content.
 
 So we gain EL3 control.
 
-You need to patch BL2_EXT to remove the vefification of lk or atf.
+You can patch BL2_EXT to remove the vefification of lk or atf or gz.
 
 And then patch LK to remove the verification of lk_main_dtb(otherwise it will crash)
 
